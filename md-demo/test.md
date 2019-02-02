@@ -31,7 +31,8 @@
 | 5.外錨 | \[yweb]: http://yahoo.com | [yahoo][yweb] |
 | 6.外部  | Youtube \{%youtube 1G4isv_Fylg %} | Youtube {%youtube 1G4isv_Fylg %}
 
-| 四.圖表 | 語法 | 效果 |
+## 四.圖表
+|        | 語法 | 效果 |
 |:-------|:----|:---------|
 | 1.循序圖 | sequence | ```sequence ``` |
 | 2.流程圖 | flow     | ```flow ``` |
